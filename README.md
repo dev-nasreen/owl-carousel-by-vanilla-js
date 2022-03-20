@@ -1,8 +1,3 @@
 # owl-carousel-by-vanilla-js
 
-<img
-src=“image/Carousel.PNG”
-raw=true
-alt=“carousel”
-style=“margin-right: 10px;”
-/>
+![Test Image 3](/Carousel.PNG)
