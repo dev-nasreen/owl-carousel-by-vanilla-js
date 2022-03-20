@@ -1,3 +1,3 @@
 # owl-carousel-by-vanilla-js
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![owl-carousel](https://drive.google.com/file/d/1TpUamU5cDfQox1m5nF-jITGfEsB27omw/view)
